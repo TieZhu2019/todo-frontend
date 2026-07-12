@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_URL = "https://todo-frontend-liard-alpha.vercel.app/";
+const API_URL = "https://todo-backend-zngj.onrender.com/api";
 
 function TodoItem({ text, completed, onToggle, onDelete }) {
   return (
