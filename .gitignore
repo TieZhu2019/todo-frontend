@@ -1,3 +1,6 @@
+node_modulesnode_modules
+todos.db
+
 # Logs
 logs
 *.log
