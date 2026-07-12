@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_URL = "http://localhost:3000/api";
+const API_URL = "https://todo-frontend-liard-alpha.vercel.app/";
 
 function TodoItem({ text, completed, onToggle, onDelete }) {
   return (
